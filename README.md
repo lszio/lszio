@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Liszt21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liszt21&hide=contribs&show_icons=true&theme=radical)](https://github.com/Liszt21/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liszt21&layout=compact)](https://github.com/Liszt21/github-readme-stats)
+
+[![Liszt21's github activity graph](https://activity-graph.herokuapp.com/graph?username=Liszt21&theme=dracula)](https://github.com/Liszt21/github-readme-activity-graph)
