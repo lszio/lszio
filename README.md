@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**liszt21/liszt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lszio/lszio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/liszt21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liszt21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Liszt21's github stats" /></a> | <a href="https://github.com/liszt21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liszt21&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/lszio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lszio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lszio's github stats" /></a> | <a href="https://github.com/lszio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lszio&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!-- [![Liszt21's github activity graph](https://activity-graph.herokuapp.com/graph?username=liszt21&theme=dracula)](https://github.com/liszt21/github-readme-activity-graph)
+<!-- [![Lszio's github activity graph](https://activity-graph.herokuapp.com/graph?username=lszio&theme=dracula)](https://github.com/lszio/github-readme-activity-graph)
  -->
